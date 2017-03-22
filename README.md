@@ -13,7 +13,7 @@ We're so glad you're considering running for office! This guide aims to give you
 * You can get an email address for free from Gmail (http://gmail.com) or Outlook (https://outlook.live.com/owa/) if you like, by making an email account called _yournameforoffice_@gmail.com.
 * An even better approach is to pay for professional email from Google or Microsoft. Both are accessible entirely online, and cost about $5 per email address per month. BONUS if you use Google's G Suite, you get all the Google apps you know and love, but with more centralized access control, so you know YOU are the one who owns ALL the google docs.
 * Remember: Don't mix personal and campaign accounts. Just don't. 
-3. Get a basic website going. Squarespace is going to be easiest, and it'll be even easier if you're using them for your domain.
+3. Get a basic website going. Squarespace is going to be easiest, and it'll be even easier if you're using them for your domain. If you're already using NGP to manage your volunteers, the NGP website builder will be the cheapest option.
 4. Get a twitter account with your name in it. Point the website at your new domain with your name in it.
 5. Set up a Facebook page for your campaign. Point it at your website.
 6. Set up a mailing list with Mailchimp. Link to the sign-up form on your website.
